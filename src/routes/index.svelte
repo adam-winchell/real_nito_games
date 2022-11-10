@@ -5,7 +5,7 @@
     
     <div class="info">
         <p>
-            We are Pierre Delcourt and Adam Winchell from Real Nito Games. 
+            We are Adam Winchell and Pierre Delcourt from Real Nito Games. 
             We are an independent tabletop game design
             team based in Illinois and Washington, USA. 
             We hope you enjoy reading about our games!
