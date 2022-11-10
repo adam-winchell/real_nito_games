@@ -2,7 +2,7 @@
   <div class="dnd">
     <h2>Dungeons and Dragons Content</h2>
     <p>We are currently working on a Dungeons & Dragons module called Xem's Guide To the Underdark.
-      Check back soon for more details. In the meantime, please check out our currently released content.
+      Check back soon for more details. In the meantime, please check out our currently released content below.
     </p>
     <ul>
         <li>
