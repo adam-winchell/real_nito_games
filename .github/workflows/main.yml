@@ -1,0 +1,32 @@
+name: Super Cool Workflow
+on:
+  pull-request:
+    branches:
+      - main
+  
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+      
+      - name: node
+        uses: actions/setup-node@master
+        
+      - name: build
+        run: |
+          npm install
+          npm run build
+          
+      - name: list output
+        run: ls
+        
+      - name: deploy to droplet
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: ${{ secrets.HOST }}
+          REMOTE_USER: ${{ secrets.USER }}
+          TARGET: ${{ secrets.TARGET_DIR }}
+          EXCLUDE: "/dist/, /node_modules/"
