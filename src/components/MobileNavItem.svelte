@@ -56,5 +56,9 @@
             width: 95vw;
             max-height: 10vh;
         }
+
+        span {
+        font-size: 1em;
+    }
     }
 </style>
