@@ -2,10 +2,13 @@
     <NavItem url="/" name="Home" />
     <NavItem url="/bizarre_bazaar" name="Bizarre Bazaar" />
     <NavItem url="/dnd" name="Dungeons & Dragons" />
+    <NavItem url="https://mailchi.mp/352c8f713e56/mailing-list" name="Mailing List" />
+
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/bizarre_bazaar" name="Bizarre Bazaar" />
         <MobileNavItem url="/dnd" name="Dungeons & Dragons" />
+        <MobileNavItem url="https://mailchi.mp/352c8f713e56/mailing-list" name="Mailing List" />
         
         <div class="menu-toggle" on:click={toggle_open}>
             <img src="/up.svg" alt="caret up" />
