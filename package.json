@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
+    "python-shell": "^3.0.1",
     "save-dev": "^0.0.1-security"
   }
 }

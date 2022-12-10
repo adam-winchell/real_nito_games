@@ -7,7 +7,7 @@
     <ul>
         <li>
             <a target="_self" href="games/Extrodinary_Actions.pdf">
-                <strong>Extrodinary Actions </strong>  written by Adam Winchell and Josh Ladd.
+                <strong>Extraordinary Actions </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
         <li>
@@ -17,8 +17,32 @@
         </li>
     </ul>
 </div>
+<div id="example-visualization" style='width: 100%'></div>
     </section>
-  
+
+<svelte:head>
+    <link rel="stylesheet" href="/src/stores/webweb/style.css">
+    <script type="text/javascript" src="src/stores/webweb/Blob.js"></script>
+    <script type="text/javascript" src="src/stores/webweb/colors.js"></script>
+    <script type="text/javascript" src="src/stores/webweb/d3.v5.min.js"></script>
+    <script type="text/javascript" src="src/stores/webweb/FileSaver.min.js"></script>
+    <script type="text/javascript">
+        // var wwdata;
+        // fetch('src/stores/viz.json')
+        // .then(response => response.json())
+        // .then(data => {wwdata = data})
+        // console.log(wwdata);
+        //TODO the above is not JSON its a string  
+    
+        var wwdata = {"display":{"attachWebwebToElementWithId":"myElement"},"networks":{"webweb":{"layers":[{"edgeList":[[0,1],[1,2],[2,3],[3,4],[4,5]],"metadata":null,"nodes":{}}]}},"title":"webweb"};
+        wwdata.display.attachWebwebToElementWithId = "example-visualization";
+        wwdata.display.w = 250;
+        wwdata.display.h = 250;
+
+        </script>
+        <script type="text/javascript" src="src/stores/webweb/webweb.v5.js"></script>
+</svelte:head>
+
 
 <style>
 
