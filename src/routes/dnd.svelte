@@ -21,11 +21,11 @@
     </section>
 
 <svelte:head>
-    <link rel="stylesheet" href="/src/stores/webweb/style.css">
-    <script type="text/javascript" src="src/stores/webweb/Blob.js"></script>
-    <script type="text/javascript" src="src/stores/webweb/colors.js"></script>
-    <script type="text/javascript" src="src/stores/webweb/d3.v5.min.js"></script>
-    <script type="text/javascript" src="src/stores/webweb/FileSaver.min.js"></script>
+    <link rel="stylesheet" href="/src/webweb/style.css">
+    <script type="text/javascript" src="src/webweb/Blob.js"></script>
+    <script type="text/javascript" src="src/webweb/colors.js"></script>
+    <script type="text/javascript" src="src/webweb/d3.v5.min.js"></script>
+    <script type="text/javascript" src="src/webweb/FileSaver.min.js"></script>
     <script type="text/javascript">
         // var wwdata;
         // fetch('src/stores/viz.json')
@@ -34,13 +34,15 @@
         // console.log(wwdata);
         //TODO the above is not JSON its a string  
     
-        var wwdata = {"display":{"attachWebwebToElementWithId":"myElement"},"networks":{"webweb":{"layers":[{"edgeList":[[0,1],[1,2],[2,3],[3,4],[4,5]],"metadata":null,"nodes":{}}]}},"title":"webweb"};
-        wwdata.display.attachWebwebToElementWithId = "example-visualization";
+        var wwdata = {"display":{"attachWebwebToElementWithId":"example-visualization"},"networks":{"webweb":{"layers":[{"edgeList":[[0,1],[1,2],[2,3],[3,4],[4,5]],"metadata":null,"nodes":{}}]}},"title":"webweb"};
+        // wwdata.display.attachWebwebToElementWithId = "example-visualization";
         wwdata.display.w = 250;
         wwdata.display.h = 250;
 
+        //window.onload is not being called below unless developer tools open
         </script>
-        <script type="text/javascript" src="src/stores/webweb/webweb.v5.js"></script>
+        <!-- <script type="text/javascript" src="src/webweb/webweb.v5.js?1565662230803397000"></script> -->
+        <script type="text/javascript" src="src/webweb/webweb.v5.js?1565662230803397000"></script>
 </svelte:head>
 
 

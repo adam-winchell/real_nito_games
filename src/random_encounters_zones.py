@@ -460,6 +460,6 @@ if __name__ == "__main__":
 
     web.display.attachWebwebToElementWithId = 'encounterMap'
     # web.show()
-    with open('src/stores/viz.json', 'w') as f:
+    with open('static/viz.json', 'w') as f:
         json.dump(web.json, f)
 

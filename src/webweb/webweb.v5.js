@@ -2163,7 +2163,12 @@ function playNetworkLayers() {
 //
 //
 ////////////////////////////////////////////////////////////////////////////////
+window.addEventListener('load', function() {
+    console.log('loaded');
+  })
+
 window.onload = function() {
+    console.log('hi');
     initializeWebweb();
 };
 window.addEventListener("keydown", function (event) {
