@@ -25,6 +25,7 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <h2>Where to get the game</h2>
+        <p>We will be launching a Kickstarter early 2023, please join our <a href="https://mailchi.mp/352c8f713e56/mailing-list">mailing list</a> to stay updated.</p>
         <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
         <p>We also provide a free <a target="_self" href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Print and Play version</a>. </p>
     </div>
