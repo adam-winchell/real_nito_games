@@ -6,7 +6,7 @@
     </p>
     <ul>
         <li>
-            <a  href="http://www.dmsguild.com/product/422142">
+            <a  href="https://www.dmsguild.com/product/422142/Extraordinary-Actions?affiliate_id=3603198">
                 <strong>Extraordinary Actions </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
