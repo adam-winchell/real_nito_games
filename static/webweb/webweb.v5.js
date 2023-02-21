@@ -7,6 +7,7 @@
  * Comments and suggestions always welcome.
  *
  */
+
 var webweb;
 
 function Webweb(wwdata) {
@@ -802,7 +803,7 @@ Webweb.prototype.updateSimulation = function(force) {
 // - initializes the webweb html
 // - computes and draws nodes
 ////////////////////////////////////////////////////////////////////////////////
-function initializeWebweb() {
+function initializeWebweb(wwdata) {
     webweb = new Webweb(wwdata);
 
     initializeHTML();
@@ -2163,14 +2164,32 @@ function playNetworkLayers() {
 //
 //
 ////////////////////////////////////////////////////////////////////////////////
-window.addEventListener('load', function() {
-    console.log('loaded');
-  })
+// window.addEventListener('load', function() {
+//     console.log('loaded');
+//   })
 
 window.onload = function() {
+
     console.log('hi');
-    initializeWebweb();
+    fetch("viz.json")
+    .then(response => response.json())
+    .then(json => {
+      // console.log(json);
+      var wwdata = {json};
+      wwdata = wwdata.json;
+      console.log(wwdata);
+  
+      // console.log(wwdata.display);
+  
+  
+      initializeWebweb(wwdata);
+    }
+    
+    );
+
+    // initializeWebweb();
 };
+
 window.addEventListener("keydown", function (event) {
     listeners = {
         37 : changeNetworkLayerListener,

@@ -1,7 +1,18 @@
 <section>
     <div  class="bizarre_bazaar">
-        <h1>Bizarre Bazaar</h1>
-        <h3>A game designed by Adam Winchell and Pierre Delcourt</h3>
+
+        <!-- <h1>Bizarre Bazaar</h1> -->
+        <div class="image-containe">
+            <img class="title" src="bizarre_bazaar_title.png" alt="icon">
+        </div>
+        <div class="image-container">
+            <img class="icon" src="/icon.png" alt="icon">
+        </div>
+        <h3>A game designed by 
+            Adam Winchell 
+            and 
+            Pierre Delcourt</h3>
+
 
         <h2>Overview</h2>
 
@@ -28,9 +39,8 @@
         <p>We will be launching a Crowd Sale early 2023, please join our <a href="https://mailchi.mp/352c8f713e56/mailing-list">mailing list</a> to stay updated.</p>
         <!-- <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
         <p>We also provide a free <a target="_self" href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Print and Play version</a>. </p> -->
-        <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> -->
+        <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
     </div>
-
 </section>
 
 <style>
@@ -80,5 +90,52 @@
         margin-left: 1%;
     }
 
+    .title {
+        max-height: 25vh;
+            max-width: 90vw;
+            border-radius: 50%;
+            margin-top: 2vh;
+
+    }
+
+    .icon {
+            max-height: 25vh;
+            max-width: 90vw;
+            border-radius: 50%;
+            margin-top: 2vh;
+            float: right;
+        }
+
+        iframe {
+            width: 100vh; 
+            height: 50vh;
+            /* max-height: 25vh;
+            max-width: 90vw; */
+        }
+
+
+        @media only screen and (max-width: 640px) {
+
+
+        .icon {
+            max-height: 25vh;
+            max-width: 20vw;
+            border-radius: 50%;
+            float: right;
+
+        }
+
+        .title {
+        max-height: 15vh;
+            max-width: 90vw;
+
+    }
+
+        iframe {
+            max-width: 75vw;
+            max-height: 25vh;
+        }
+
+    }
 
 </style>

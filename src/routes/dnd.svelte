@@ -1,3 +1,11 @@
+<!-- <svelte:head>
+    <link rel="stylesheet" href= "webweb/style.css">
+    <script type="text/javascript" src="webweb/Blob.js"></script>
+    <script type="text/javascript" src="webweb/colors.js"></script>
+    <script type="text/javascript" src="webweb/d3.v5.min.js"></script>
+    <script type="text/javascript" src="webweb/FileSaver.min.js"></script>
+    <script type="text/javascript" src="webweb/webweb.v5.js"></script> 
+</svelte:head> -->
 <section>
   <div class="dnd">
     <h2>Dungeons and Dragons Content</h2>
@@ -17,6 +25,8 @@
         </li>
     </ul>
 </div>
+<div id="encounterMap"></div>
+
     </section>
 
 
