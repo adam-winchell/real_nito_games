@@ -40,6 +40,7 @@
         <!-- <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
         <p>We also provide a free <a target="_self" href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Print and Play version</a>. </p> -->
         <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
+        <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
     </div>
 </section>
 
