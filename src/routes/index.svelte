@@ -81,8 +81,6 @@
         .icon {
             max-height: 25vh;
             max-width: 20vw;
-            /* border-radius: 50%;
-            float: right; */
         }
     }
 </style>

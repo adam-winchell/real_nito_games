@@ -109,7 +109,6 @@
         iframe {
             width: 100vh; 
             height: 50vh;
-            display:block;
             /* max-height: 25vh;
             max-width: 90vw; */
         }
