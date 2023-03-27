@@ -2,17 +2,16 @@
     <div  class="bizarre_bazaar">
 
         <!-- <h1>Bizarre Bazaar</h1> -->
-        <div class="image-containe">
-            <img class="title" src="bizarre_bazaar_title.png" alt="icon">
-        </div>
-        <div class="image-container">
-            <img class="icon" src="/icon.png" alt="icon">
-        </div>
-        <h3>A game designed by 
-            Adam Winchell 
-            and 
-            Pierre Delcourt</h3>
+        <div class="title_container">
+            <div class="image-containe">
+                <img class="title" src="bizarre_bazaar_title.png" alt="icon">
+            </div>
 
+            <h3>A game designed by 
+                Adam Winchell 
+                and 
+                Pierre Delcourt</h3>
+        </div>
 
         <h2>Overview</h2>
 
@@ -93,23 +92,24 @@
 
     .title {
         max-height: 25vh;
-            max-width: 90vw;
-            border-radius: 50%;
-            margin-top: 2vh;
-
+        max-width: 90vw;
+        margin-top: 2vh;
     }
 
-    .icon {
-            max-height: 25vh;
-            max-width: 90vw;
-            border-radius: 50%;
-            margin-top: 2vh;
-            float: right;
-        }
+    .title_container{
+        position: relative;
+        text-align: center;
+    }
+
+    h3{
+        text-align: center;
+        left: 100%;
+    }
 
         iframe {
             width: 100vh; 
             height: 50vh;
+            display:block;
             /* max-height: 25vh;
             max-width: 90vw; */
         }
@@ -117,18 +117,9 @@
 
         @media only screen and (max-width: 640px) {
 
-
-        .icon {
-            max-height: 25vh;
-            max-width: 20vw;
-            border-radius: 50%;
-            float: right;
-
-        }
-
         .title {
         max-height: 15vh;
-            max-width: 90vw;
+        max-width: 90vw;
 
     }
 

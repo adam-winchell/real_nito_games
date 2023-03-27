@@ -11,6 +11,12 @@
             We hope you enjoy reading about our games!
         </p>
     </div>
+
+    <div class="image-container">
+        <img class="icon" src="/icon.png" alt="icon">
+    </div>
+
+
 </section>
 
 
@@ -48,6 +54,12 @@
     p {
         font-size: 1.5em;
     }
+
+    .icon {
+            max-height: 15vh;
+            max-width: 90vw;
+            border-radius: 50%;
+        }
      
 
 
@@ -65,5 +77,12 @@
         .info {
             max-width: 90%;
         } 
+
+        .icon {
+            max-height: 25vh;
+            max-width: 20vw;
+            /* border-radius: 50%;
+            float: right; */
+        }
     }
 </style>
