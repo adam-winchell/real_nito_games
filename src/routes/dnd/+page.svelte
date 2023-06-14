@@ -17,30 +17,6 @@
         </li>
     </ul>
 </div>
-<!-- <div id="randomEncounter"></div> -->
-<!-- <input type="text" bind:this={myInput}/> -->
-
-<!-- <button on:click={generate_encounter("twilight")}>
-	Twilight
-</button> -->
-<div class="randomEncounters">
-    {#each zones as zone}
-    <button on:click={() => zone.visibility = zone.visibility * -1}>
-        {zone.zone}
-    </button>
-    {#if zone.visibility === 1}
-        <!--<div class=yourstyleclasshere>-->
-            
-                {#each zone.text as zoneText}
-                <h2>{zoneText[0]}</h2>
-                    <div>
-                        <p>{zoneText[1]}</p>
-                    </div>
-                {/each}
-        <!--</div>-->
-        {/if}
-    {/each}
-</div>
 
 </section>
 
