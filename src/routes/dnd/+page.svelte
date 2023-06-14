@@ -1,11 +1,3 @@
-<!-- <svelte:head>
-    <link rel="stylesheet" href= "webweb/style.css">
-    <script type="text/javascript" src="webweb/Blob.js"></script>
-    <script type="text/javascript" src="webweb/colors.js"></script>
-    <script type="text/javascript" src="webweb/d3.v5.min.js"></script>
-    <script type="text/javascript" src="webweb/FileSaver.min.js"></script>
-    <script type="text/javascript" src="webweb/webweb.v5.js"></script> 
-</svelte:head> -->
 <section>
   <div class="dnd">
     <h2>Dungeons and Dragons Content</h2>
@@ -25,10 +17,65 @@
         </li>
     </ul>
 </div>
-<div id="encounterMap"></div>
+<!-- <div id="randomEncounter"></div> -->
+<!-- <input type="text" bind:this={myInput}/> -->
 
-    </section>
+<!-- <button on:click={generate_encounter("twilight")}>
+	Twilight
+</button> -->
+<div class="randomEncounters">
+    {#each zones as zone}
+    <button on:click={() => zone.visibility = zone.visibility * -1}>
+        {zone.zone}
+    </button>
+    {#if zone.visibility === 1}
+        <!--<div class=yourstyleclasshere>-->
+            
+                {#each zone.text as zoneText}
+                <h2>{zoneText[0]}</h2>
+                    <div>
+                        <p>{zoneText[1]}</p>
+                    </div>
+                {/each}
+        <!--</div>-->
+        {/if}
+    {/each}
+</div>
 
+</section>
+
+<script>
+    import { onMount } from 'svelte';
+    import {generate_encounter} from "./generate_encounters"
+
+    // let myInput;
+
+    // onMount(() => {
+    //     // myInput.value = 'Hello world!';
+    //     myInput.value = generate_encounter("twilight");
+    // });
+
+    
+    // generate_encounter("twilight","randomEncounter")
+    let zones = [
+  {
+    zone:"Twilight",
+    text:generate_encounter("twilight"),
+		visibility: -1
+  },
+  {
+    zone:"Dusk",
+    text:generate_encounter("dusk"),
+		visibility: -1
+  },
+
+    {
+    zone:"Gloom",
+    text:generate_encounter("gloom"),
+		visibility: -1
+  }
+]
+</script>
 
 <style>
 
