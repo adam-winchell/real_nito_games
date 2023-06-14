@@ -22,7 +22,7 @@
 
         <h2>Rules</h2>
         <p>The rules can be downloaded <a target="_self" href="games/Bizarre_Bazaar_Rules.pdf">here</a>. A quick overview of the rules can be found below.</p>
-        <p>Each round, the Buyer draws a Role card and becomes a mundane human or a fantastic creature. All other players use Quality (adjective or gerund) and Item 
+        <p>Each round, the Buyer draws a Buyer card and becomes a mundane human or a fantastic creature. All other players use Quality (adjective or gerund) and Item 
             (noun) cards to invent Quality Items. These combinations are placed in bags that are shuffled and distributed to new, 
             unsuspecting players. To the best of their abilities, players then attempt to sell the bizarre contents of their bags, and the Buyer chooses which 
             one of these Quality Items wins the round. The players who created and pitched the chosen Quality Item each receive one of the winning cards as a reward.
@@ -37,7 +37,6 @@
         <h2>Where to get the game</h2>
         <p>We will be launching a Crowd Sale early 2023, please join our <a href="https://mailchi.mp/352c8f713e56/mailing-list">mailing list</a> to stay updated.</p>
         <!-- <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
-        <p>We also provide a free <a target="_self" href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Print and Play version</a>. </p> -->
         <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
     </div>
