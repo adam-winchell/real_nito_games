@@ -17,7 +17,7 @@
 
         <p>Welcome to the Bizarre Bazaar, where you turn ordinary into extraordinary!</p>
         <p>Bizarre Bazaar offers a humorous and memorable way to teach players new vocabulary while immersing them in a fusion of reality and myth.</p>
-        <p>4-7+ Players, ages 12+</p>
+        <p>4-7+ Players, ages 10+</p>
         <p>30-60 minutes</p>
 
         <h2>Rules</h2>
@@ -29,14 +29,16 @@
              The Buyer switches roles with the player to their left and play continues until a predetermined number of rounds has been completed. 
              Prepare for mutually assured amusement!</p>
 
-        <p>Checkout the video below for a visual explanation of the rules and flow of gameplay.</p>
+        <h2>Rules Video</h2>
 
-        <iframe  src="https://www.youtube.com/embed/7DOmpU95RcM" title="YouTube video player" frameborder="0" 
+        <iframe  src="https://www.youtube.com/embed/rS3Ob6ypvVQ" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Gameplay Video</h2>
+        <iframe  src="https://www.youtube.com/embed/_ET1ULIA-X0" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <h2>Where to get the game</h2>
-        <p>We will be launching a Crowd Sale early 2023, please join our <a href="https://mailchi.mp/352c8f713e56/mailing-list">mailing list</a> to stay updated.</p>
-        <!-- <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
+        <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
         <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
     </div>
