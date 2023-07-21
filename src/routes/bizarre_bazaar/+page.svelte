@@ -20,6 +20,10 @@
         <p>4-7+ Players, ages 10+</p>
         <p>30-60 minutes</p>
 
+        <form action="https://www.thegamecrafter.com/checkout/sku/ADF136BA-3A4F-11E9-9F91-5654A86D9653" method="POST"><button type="submit" formtarget="_blank">Buy Bizarre Bazaar Here!</button></form>
+
+        <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
+
         <h2>Rules</h2>
         <p>The rules can be downloaded <a target="_self" href="games/Bizarre_Bazaar_Rules.pdf">here</a>. A quick overview of the rules can be found below.</p>
         <p>Each round, the Buyer draws a Buyer card and becomes a mundane human or a fantastic creature. All other players use Quality (adjective or gerund) and Item 
@@ -36,11 +40,8 @@
         <h2>Gameplay Video</h2>
         <iframe  src="https://www.youtube.com/embed/_ET1ULIA-X0" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        
-        <h2>Where to get the game</h2>
-        <p>You can currently buy Bizarre Bazaar from <a href="https://www.thegamecrafter.com/games/bizarre-bazaar2" >The Game Crafter.</a></p>
+    
         <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
-        <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
     </div>
 </section>
 
@@ -100,6 +101,24 @@
     .title_container{
         position: relative;
         text-align: center;
+    }
+
+
+    button{
+        /* color:aqua; */
+        background-color: #0d7d1a;
+        border: #0d7d1a;
+        color: white;
+        font-weight: bold;
+        /* width: 30%; */
+        font-size: x-large;
+        padding: 2%;
+        border-radius: 5px;
+    }
+
+    button:hover{
+        background-color: white;
+        color: #0d7d1a;
     }
 
     h3{
