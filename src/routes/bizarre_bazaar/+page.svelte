@@ -17,11 +17,11 @@
 
         <p>Welcome to the Bizarre Bazaar, where you turn ordinary into extraordinary!</p>
         <p>Bizarre Bazaar offers a humorous and memorable way to teach players new vocabulary while immersing them in a fusion of reality and myth.</p>
-        <p>4-7+ Players, ages 10+</p>
+        <p>4-7+ Players, ages 12+</p>
         <p>30-60 minutes</p>
 
         <form action="https://www.thegamecrafter.com/checkout/sku/ADF136BA-3A4F-11E9-9F91-5654A86D9653" method="POST"><button type="submit" formtarget="_blank">Buy Bizarre Bazaar Here!</button></form>
-
+        
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
 
         <h2>Rules</h2>
@@ -35,7 +35,7 @@
 
         <h2>Rules Video</h2>
 
-        <iframe  src="https://www.youtube.com/embed/rS3Ob6ypvVQ" title="YouTube video player" frameborder="0" 
+        <iframe  src="https://www.youtube.com/embed/ArSIrvORa3g" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h2>Gameplay Video</h2>
         <iframe  src="https://www.youtube.com/embed/_ET1ULIA-X0" title="YouTube video player" frameborder="0" 
