@@ -35,7 +35,7 @@
 
         <h2>Rules Video</h2>
 
-        <iframe  src="https://www.youtube.com/embed/ArSIrvORa3g" title="YouTube video player" frameborder="0" 
+        <iframe  src="https://www.youtube.com/embed/zi3RbO9U_pA" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h2>Gameplay Video</h2>
         <iframe  src="https://www.youtube.com/embed/_ET1ULIA-X0" title="YouTube video player" frameborder="0" 
