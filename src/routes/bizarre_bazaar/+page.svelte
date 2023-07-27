@@ -20,8 +20,12 @@
         <p>4-7+ Players, ages 12+</p>
         <p>30-60 minutes</p>
 
-        <form action="https://www.thegamecrafter.com/checkout/sku/ADF136BA-3A4F-11E9-9F91-5654A86D9653" method="POST"><button type="submit" formtarget="_blank">Buy Bizarre Bazaar Here!</button></form>
+        <p>Check out our <a href="https://www.thegamecrafter.com/crowdsale/bizarre-bazaar">Crowd Sale </a> running from August 1st to 31st.</p>
+
+        <!-- <form action="https://www.thegamecrafter.com/checkout/sku/ADF136BA-3A4F-11E9-9F91-5654A86D9653" method="POST"><button type="submit" formtarget="_blank">Buy Bizarre Bazaar Here!</button></form> -->
         
+        <p>Try out the game for free using <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1726793867" >Table Top Simulator</a>. </p> 
+
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
 
         <h2>Rules</h2>
@@ -41,7 +45,6 @@
         <iframe  src="https://www.youtube.com/embed/_ET1ULIA-X0" title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-        <!-- <p>Try out the game for free using <a href="games/Bizarre_Bazaar_(Print+Play_Base_Game).zip" >Table Top Simulator</a>. </p> --> 
     </div>
 </section>
 
