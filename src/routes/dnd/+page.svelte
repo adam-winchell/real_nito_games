@@ -11,8 +11,8 @@
             </a>
         </li>
         <li>
-            <a  href="https://github.com/adam-winchell/Xem-s-Guide-To-the-Underdark-PDFs/blob/main/output/XGU_Players_Supplement.pdf">
-                <strong>Xem's Guide To the Underdark Players Supplement </strong>  written by Adam Winchell and Josh Ladd.
+            <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198">
+                <strong>Xem's Guide to Exploration </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
     </ul>
