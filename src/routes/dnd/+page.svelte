@@ -3,6 +3,13 @@
     <h2>Dungeons and Dragons Content</h2>
     <p>We are currently working on a Dungeons & Dragons module called Xem's Guide To the Underdark.
       Check back soon for more details. In the meantime, please check out our currently released content below.
+
+      If you subscribe to our mailing list, we will send out discount codes on the release of new content. As a token
+      of our appreciation check out this    
+      <span class="reset-style"> 
+        <a href="https://www.dmsguild.com/browse.php?discount=92aba439fd"> 20% discount for <i>Xem's Guide to Exploration </i></a>
+      </span>
+
     </p>
     <ul>
         <li>
@@ -54,6 +61,11 @@
 </script>
 
 <style>
+
+    .reset-style, .reset-style * {
+        all: revert;
+        color: black;
+    }
 
 section {
         flex-grow: 1;
