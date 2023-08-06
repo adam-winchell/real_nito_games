@@ -7,18 +7,18 @@
       If you subscribe to our mailing list, we will send out discount codes on the release of new content. As a token
       of our appreciation check out this    
       <span class="reset-style"> 
-        <a href="https://www.dmsguild.com/browse.php?discount=92aba439fd"> 20% discount for <i>Xem's Guide to Exploration </i></a>
+        <a href="https://www.dmsguild.com/browse.php?discount=92aba439fd&src=mywebsite&affiliate_id=3603198"> 20% discount for <i>Xem's Guide to Exploration </i></a>
       </span>
 
     </p>
     <ul>
         <li>
-            <a  href="https://www.dmsguild.com/product/422142/Extraordinary-Actions?affiliate_id=3603198">
+            <a  href="https://www.dmsguild.com/product/422142/Extraordinary-Actions?affiliate_id=3603198&src=mywebsite">
                 <strong>Extraordinary Actions </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
         <li>
-            <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198">
+            <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198&src=mywebsite">
                 <strong>Xem's Guide to Exploration </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
