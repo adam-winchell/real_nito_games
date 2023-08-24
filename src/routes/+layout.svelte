@@ -4,6 +4,7 @@
     <slot />
     <footer>
         <FooterItem icon="youtube" url="https://www.youtube.com/channel/UCXdbmCHPcSW_UF_h7EeXrTA"/>
+        <FooterItem icon="tiktok" url="https://www.tiktok.com/@realnitogames"/>
         <FooterItem icon="email" url="mailto:realnitogames@gmail.com" />
     </footer>
 </main>
