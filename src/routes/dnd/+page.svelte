@@ -13,6 +13,11 @@
     </p>
     <ul>
         <li>
+            <a href="https://mod.io/g/baldursgate3/m/extraordinaryactions">
+                <strong>Extraordinary Actions for Baldur's Gate 3</strong>  made by Adam Winchell
+            </a>
+        </li>
+        <li>
             <a  href="https://www.dmsguild.com/product/422142/Extraordinary-Actions?affiliate_id=3603198&src=mywebsite">
                 <strong>Extraordinary Actions </strong>  written by Adam Winchell and Josh Ladd.
             </a>
