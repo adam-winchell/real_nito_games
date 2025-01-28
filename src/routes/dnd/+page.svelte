@@ -13,13 +13,8 @@
     </p>
     <ul>
         <li>
-            <a href="https://mod.io/g/baldursgate3/m/cure-wounds-bonus-action">
-                <strong>Cure Wounds as a Bonus Action for Baldur's Gate 3</strong>  made by Adam Winchell
-            </a>
-        </li>
-        <li>
-            <a href="https://mod.io/g/baldursgate3/m/extraordinaryactions">
-                <strong>Extraordinary Actions for Baldur's Gate 3</strong>  made by Adam Winchell
+            <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198&src=mywebsite">
+                <strong>Xem's Guide to Exploration </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
         <li>
@@ -28,8 +23,18 @@
             </a>
         </li>
         <li>
-            <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198&src=mywebsite">
-                <strong>Xem's Guide to Exploration </strong>  written by Adam Winchell and Josh Ladd.
+            <a href="https://mod.io/g/baldursgate3/m/xp-for-the-restless">
+                <strong>XP for the Restless for Baldur's Gate 3</strong>  made by Adam Winchell
+            </a>
+        </li>
+        <li>
+            <a href="https://mod.io/g/baldursgate3/m/extraordinaryactions">
+                <strong>Extraordinary Actions for Baldur's Gate 3</strong>  made by Adam Winchell
+            </a>
+        </li>
+        <li>
+            <a href="https://mod.io/g/baldursgate3/m/cure-wounds-bonus-action">
+                <strong>Cure Wounds as a Bonus Action for Baldur's Gate 3</strong>  made by Adam Winchell
             </a>
         </li>
     </ul>
