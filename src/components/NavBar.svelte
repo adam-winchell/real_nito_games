@@ -1,12 +1,14 @@
 <nav class={$menu_open ? 'open' : 'closed'}>
     <NavItem url="/" name="Home" />
     <NavItem url="/bizarre_bazaar" name="Bizarre Bazaar" />
+    <NavItem url="/coral_clash" name="Coral Clash" />
     <NavItem url="/dnd" name="Dungeons & Dragons" />
     <NavItem url="https://mailchi.mp/352c8f713e56/mailing-list" name="Mailing List" />
 
     {#if $menu_open === true}
         <MobileNavItem url="/" name="Home" />
         <MobileNavItem url="/bizarre_bazaar" name="Bizarre Bazaar" />
+        <MobileNavItem url="/coral_clash" name="Coral Clash" />
         <MobileNavItem url="/dnd" name="Dungeons & Dragons" />
         <MobileNavItem url="https://mailchi.mp/352c8f713e56/mailing-list" name="Mailing List" />
         
