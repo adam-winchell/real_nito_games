@@ -33,6 +33,11 @@
             </a>
         </li>
         <li>
+            <a href="https://mod.io/g/baldursgate3/m/sanctuary-debuff">
+                <strong>Sanctuary Debuff for Baldur's Gate 3</strong>  made by Adam Winchell
+            </a>
+        </li>
+        <li>
             <a href="https://mod.io/g/baldursgate3/m/cure-wounds-bonus-action">
                 <strong>Cure Wounds as a Bonus Action for Baldur's Gate 3</strong>  made by Adam Winchell
             </a>
