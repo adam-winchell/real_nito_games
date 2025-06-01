@@ -47,6 +47,11 @@
                 <strong>Myrkul Vulnerable To Radiant for Baldur's Gate 3</strong>  made by Adam Winchell
             </a>
         </li>
+        <li>
+            <a href="https://mod.io/g/baldursgate3/m/counterspell-fix1">
+                <strong>Counterspell Fix for Baldur's Gate 3</strong>  made by Adam Winchell
+            </a>
+        </li>
     </ul>
 </div>
 
