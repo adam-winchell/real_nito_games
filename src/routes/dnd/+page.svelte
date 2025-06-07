@@ -52,6 +52,12 @@
                 <strong>Counterspell Fix for Baldur's Gate 3</strong>  made by Adam Winchell
             </a>
         </li>
+        <li>
+            <a href="https://mod.io/g/baldursgate3/m/compelled-duel-and-goaded-fix">
+                <strong>Compelled Duel and Goaded Fix</strong>  made by Adam Winchell
+            </a>
+        </li>
+
     </ul>
 </div>
 
