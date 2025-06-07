@@ -22,6 +22,9 @@
                 <strong>Extraordinary Actions </strong>  written by Adam Winchell and Josh Ladd.
             </a>
         </li>
+    </ul>
+    <h2>Baldur's Gate 3 Mods</h2>
+        <ul>
         <li>
             <a href="https://mod.io/g/baldursgate3/m/xp-for-the-restless">
                 <strong>XP for the Restless for Baldur's Gate 3</strong>  made by Adam Winchell
