@@ -13,6 +13,11 @@
     </p>
     <ul>
         <li>
+            <a  href="https://www.dmsguild.com/product/525877/Unyielding-Actions?affiliate_id=3603198&src=mywebsite">
+                <strong>Unyielding Actions </strong>  written by Adam Winchell and Josh Ladd.
+            </a>
+        </li>
+        <li>
             <a  href="https://www.dmsguild.com/product/448158/Xems-Guide-to-Exploration?affiliate_id=3603198&src=mywebsite">
                 <strong>Xem's Guide to Exploration </strong>  written by Adam Winchell and Josh Ladd.
             </a>
