@@ -65,6 +65,11 @@
                 <strong>Compelled Duel and Goaded Fix</strong>  made by Adam Winchell
             </a>
         </li>
+        <li>
+            <a href="https://mod.io/g/baldursgate3/m/sense-hidden-presence-debuff">
+                <strong>Sense Hidden Presence Debuff</strong>  made by Adam Winchell
+            </a>
+        </li>
 
     </ul>
 </div>
