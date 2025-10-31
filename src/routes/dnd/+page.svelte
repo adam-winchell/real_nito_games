@@ -12,6 +12,16 @@
 
     </p>
     <ul>
+         <li>
+            <a  href="https://www.dmsguild.com/product/544236/Encounter-Points?affiliate_id=3603198&src=mywebsite">
+                <strong>Encounter Points </strong>  written by Adam Winchell and Josh Ladd.
+            </a>
+        </li>
+        <li>
+            <a  href="https://colab.research.google.com/drive/14hnAx9MXJIv2_BGRJpXUWyICOnc9tdJ3#scrollTo=vpLvhsQLkTrA">
+                <strong>Encounter Points Monte Carlo </strong>  written by Adam Winchell.
+            </a>
+        </li>
         <li>
             <a  href="https://www.dmsguild.com/product/525877/Unyielding-Actions?affiliate_id=3603198&src=mywebsite">
                 <strong>Unyielding Actions </strong>  written by Adam Winchell and Josh Ladd.
