@@ -22,7 +22,9 @@
 
         <form action="https://tgc.link/bizarre_bazaar"><button type="submit" formtarget="_blank">Buy Bizarre Bazaar Here!</button></form>
         
-        <p>Try out the game for free using <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1726793867" >Table Top Simulator</a>. </p> 
+        <p>Play the game for free using our <a href="https://studio--studio-6551973043-b0204.us-central1.hosted.app/">desktop application</a>.</p>
+
+        <p>Try out the tabletop version of the game for free using <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1726793867" >Table Top Simulator</a>. </p> 
 
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
 
