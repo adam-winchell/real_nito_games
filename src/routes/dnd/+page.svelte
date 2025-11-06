@@ -5,9 +5,9 @@
       Check back soon for more details. In the meantime, please check out our currently released content below.
 
       If you subscribe to our mailing list, we will send out discount codes on the release of new content. As a token
-      of our appreciation check out this    
+      of our appreciation for reading, check out this    
       <span class="reset-style"> 
-        <a href="https://www.dmsguild.com/browse.php?discount=92aba439fd&src=mywebsite&affiliate_id=3603198"> 20% discount for <i>Xem's Guide to Exploration </i></a>
+        <a href="https://www.dmsguild.com/en/product/544958/xem-s-guide-to-the-underdark-rules-bundle?src=mywebsite&affiliate_id=3603198"> Bundle Deal for all of the products listed below (Save 57%).</a> 
       </span>
 
     </p>
