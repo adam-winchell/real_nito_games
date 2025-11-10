@@ -28,7 +28,7 @@
 
         <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/382778/bizarre-bazaar">Board Game Geek </a>.</p>
 
-        <h2>Rules</h2>
+        <h2>Rules & Gameplay</h2>
         <p>The rules can be downloaded <a target="_self" href="games/Bizarre_Bazaar_Rules.pdf">here</a>. A quick overview of the rules can be found below.</p>
         <p>Each round, the Buyer draws a Buyer card and becomes a mundane human or a fantastic creature. All other players use Quality (adjective or gerund) and Item 
             (noun) cards to invent Quality Items. These combinations are placed in bags that are shuffled and distributed to new, 
