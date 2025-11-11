@@ -27,7 +27,7 @@
 
         <p>We are currently working on a <a href="https://coral-clash.web.app">desktop version of Coral Clash.</a> Check back soon for more details.</p>
 
-        <h2>Rules & Gameplay</h2>
+        <h2>Gameplay</h2>
         <p>Dive into Coral Clash, a chess-like strategy game where you command an aquatic army of dolphins, turtles, and more, to outmaneuver your opponent in a war to create and own the coral reef. Victory is achieved through clever strategy: either checkmate your opponent's whale or dominate the board with coral control.</p>
         
         <p>The primary objective in Coral Clash is to either checkmate your opponent's Whale or control the most area with your Coral when specific conditions are met, such as placing all your Coral or having only your Whale remaining. Every piece has unique movement patterns as well as a role. Gatherers are able to place coral on the board, the way to win the area of control part of the game. Hunters are able to remove coral, but their movement is stopped by coral.</p>

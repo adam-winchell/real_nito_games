@@ -1,10 +1,38 @@
 <section>
-    <div  class="wedding_whiz">
+    <div class="coral_clash">
 
+        <div class="title_container">
+            <div class="image-containe">
+                <img class="title" src="wedding_whiz_title.png" alt="icon">
+            </div>
 
-        <h1>Coming Soon</h1>
+            <h3>
+                A game designed by Adam Winchell
+            </h3>
+        </div>
 
-        <p>More details on Wedding Whiz coming soon!</p>
+        <h2>Overview</h2>
+
+        <p>Test wedding guests' knowledge of the couple!</p>
+
+        <p>7 Players, ages 12+</p>
+        <p>10-20 minutes</p>
+
+        <form action="https://www.thegamecrafter.com/games/wedding-whiz" target="_blank">
+            <button type="submit">Buy Wedding Whiz Here!</button>
+        </form>
+
+        <h2>Gameplay</h2>
+        <p>Welcome to the most personalized and hilarious wedding game you’ll ever play! This isn't just trivia—it's a fun-filled contest designed to test your knowledge of the newlyweds' quirky habits, secret opinions, and playful boasts!</p>
+        
+        <p>Before the main event, the Host (often one person of honor) will select four contestants in a lightning-round challenge. They will read out Special Facts chosen by the newlyweds—facts only their closest confidantes are likely to know! Shout out the correct answer first to earn your spot at the contestant table!</p>
+
+        <p>The Host reads out fun, pre-selected facts like, "Who’s convinced they’re the better dancer?" or "Who’s famous for never admitting they’re wrong?"</p>
+
+        <p>Contestants have just 5 seconds to secretly vote using their cards, holding up the name of the newlywed they believe the fact applies to.
+</p>
+
+        <p>The Host announces the correct answer, and points are tallied! Listen closely, because if everyone gets it wrong, the newlyweds are encouraged to jump in with a witty comment or quip!</p>
     </div>
 </section>
 
@@ -18,14 +46,13 @@
         align-items: flex-start;
         padding: 20px;
         margin-top: 8vh;
-
     }
 
     h2 {
         margin-bottom: 10px;
     }
 
-    .wedding_whiz {
+    .coral_clash { 
         flex-grow: 0;
         max-width: 80%;
         margin: 0 auto;
@@ -34,7 +61,7 @@
 
     a {
         text-decoration: underline;
-        color: black;        
+        color: black;      
     }
 
     li {
@@ -46,17 +73,17 @@
         text-decoration: underline;
     }
 
-    .wedding_whiz p {
+    .coral_clash p {
         margin-left: 1%;
         font-size: 1.5em;
     }
 
-    .wedding_whiz iframe {
+    .coral_clash iframe {
         margin-left: 1%;
     }
 
     .title {
-        max-height: 25vh;
+        max-height: 30vh;
         max-width: 90vw;
         margin-top: 2vh;
     }
@@ -68,12 +95,10 @@
 
 
     button{
-        /* color:aqua; */
         background-color: #0d7d1a;
         border: #0d7d1a;
         color: white;
         font-weight: bold;
-        /* width: 30%; */
         font-size: x-large;
         padding: 2%;
         border-radius: 5px;
@@ -89,15 +114,13 @@
         left: 100%;
     }
 
-        iframe {
-            width: 100vh; 
-            height: 50vh;
-            /* max-height: 25vh;
-            max-width: 90vw; */
-        }
+    iframe {
+        width: 100vh; 
+        height: 50vh;
+    }
 
 
-        @media only screen and (max-width: 640px) {
+    @media only screen and (max-width: 640px) {
 
         .title {
         max-height: 15vh;
@@ -109,7 +132,6 @@
             max-width: 75vw;
             max-height: 25vh;
         }
-
     }
 
 </style>
