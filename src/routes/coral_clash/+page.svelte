@@ -23,7 +23,9 @@
         </form>
 
         
-        <p>Check out our free app of Coral Clash on the <a href="#">App Store</a> or <a href="#">Play Store</a>.</p>
+        <p>Check out our free app of Coral Clash on the <a href="#">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.jbuxofplenty.coralclash">Play Store</a>.</p>
+
+        <p>We are currently working on a <a href="https://coral-clash.web.app">desktop version of Coral Clash.</a> Check back soon for more details.</p>
 
         <h2>Rules & Gameplay</h2>
         <p>Dive into Coral Clash, a chess-like strategy game where you command an aquatic army of dolphins, turtles, and more, to outmaneuver your opponent in a war to create and own the coral reef. Victory is achieved through clever strategy: either checkmate your opponent's whale or dominate the board with coral control.</p>
