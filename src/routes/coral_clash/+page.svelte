@@ -27,6 +27,8 @@
 
         <p>We are currently working on a <a href="https://coral-clash.web.app">desktop version of Coral Clash.</a> Check back soon for more details.</p>
 
+        <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/458177/coral-clash">Board Game Geek </a>.</p>
+
         <h2>Gameplay</h2>
         <p>Dive into Coral Clash, a chess-like strategy game where you command an aquatic army of dolphins, turtles, and more, to outmaneuver your opponent in a war to create and own the coral reef. Victory is achieved through clever strategy: either checkmate your opponent's whale or dominate the board with coral control.</p>
         
