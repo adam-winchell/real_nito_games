@@ -22,6 +22,9 @@
             <button type="submit">Buy Wedding Whiz Here!</button>
         </form>
 
+        <p>If you like our game, please leave a review at <a href="https://boardgamegeek.com/boardgame/458367/wedding-whiz">Board Game Geek </a>.</p>
+
+
         <h2>Gameplay</h2>
         <p>Welcome to the most personalized and hilarious wedding game you’ll ever play! This isn't just trivia—it's a fun-filled contest designed to test your knowledge of the newlyweds' quirky habits, secret opinions, and playful boasts!</p>
         
