@@ -23,7 +23,7 @@
         </form>
 
         
-        <p>Check out our free app of Coral Clash on the <a href="#">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.jbuxofplenty.coralclash">Play Store</a>.</p>
+        <p>Check out our free app of Coral Clash on the <a href="https://apps.apple.com/us/app/coral-clash/id6754509672">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.jbuxofplenty.coralclash">Play Store</a>.</p>
 
         <p>We are currently working on a <a href="https://coral-clash.web.app">desktop version of Coral Clash.</a> Check back soon for more details.</p>
 
