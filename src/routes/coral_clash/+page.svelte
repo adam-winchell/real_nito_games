@@ -35,6 +35,14 @@
         <p>The primary objective in Coral Clash is to either checkmate your opponent's Whale or control the most area with your Coral when specific conditions are met, such as placing all your Coral or having only your Whale remaining. Every piece has unique movement patterns as well as a role. Gatherers are able to place coral on the board, the way to win the area of control part of the game. Hunters are able to remove coral, but their movement is stopped by coral.</p>
 
         <p>Perfect for fans of chess, abstract strategy games, and ocean adventures!</p>
+
+        <h2>Rules Video</h2>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AacHXQ6-dIA?si=ts2UbiDg0GydLQ10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h2>Gameplay Video</h2>
+        <iframe  src="https://youtube.com/embed/jlV2ywx9we8" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
     </div>
 </section>
 
